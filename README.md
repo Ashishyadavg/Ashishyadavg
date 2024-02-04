@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Ashish Kumar. I'm an engineering student. 
+- 👀 I’m interested in web development. 
+- 🌱 I already completed C, HTML and css. I’m currently learning JavaScript. 
+- 💞️ I’m looking to collaborate on (me nhi bataunga😁). 
+- 📫 you can contact me through my email- kamit65400@gmail.com,
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Coding is fun🗿
+- 
